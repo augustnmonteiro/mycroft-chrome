@@ -1,0 +1,28 @@
+img {
+  width: 150px;
+  height: 150px;
+  margin: 20px 100px;
+}
+
+div {
+  display: table;
+  margin: 0 auto;
+}
+
+input {
+  width: 260px;
+  height: 40px;
+  font-size: 18px;
+  padding: 10px;
+  float: left;
+}
+
+button {
+  height: 40px;
+  float: left;
+  background: #008daf;
+  border: none;
+  padding: 10px;
+  color: #FFF;
+  font-size: 16px;
+}
